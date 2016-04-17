@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Pascalv0.1</string>
+    <string name="cautrucrenhanh">Cấu trúc lệnh rẽ nhánh</string>
+    <string name="nd">Nội dung</string>
+    <string name="bt">Bài tập</string>
+    <string name="cautruclap">Cấu trúc lặp</string>
+    <string name="kieumang">Kiểu dữ liệu mảng</string>
+    <string name="kieuxau">Kiểu dữ liệu xâu</string>
+    <string name="chtn">Câu hỏi trắc nghiệm</string>
+    <string name="tenbai1_1">Bài 1: Bài toán tính tiền lương</string>
+    <string name="ndbai1_1">Nhập số giờ làm và lương giờ rồi tính số tiền lương tổng cộng. Nếu số&#8230;</string>
+    <string name="tenbai2_1">Bài 2: Số lớn, số bé</string>
+    <string name="ndbai2_1">Nhập vào hai số nguyên, sau đó in ra màn hình theo thứ tự&#8230;</string>
+    <string name="tenbai3_1">Bài 3: Ước số của nhau</string>
+    <string name="ndbai3_1">Nhập hai số nguyên, kiểm tra xem chúng có phải là ước số&#8230;</string>
+    <string name="pthd">Phân tích/Hướng dẫn</string>
+    <string name="ptbai1_1">Nội dung phần phân tích, hướng dẫn cách giải</string>
+    <string name="bdk">Bảng dữ kiện</string>
+    <string name="dkbai1_1">Liệt kê các dạng biến số - chữ sẽ được sử dụng trong thuật toán\nVí dụ: \nBiến x - kiểu số thực - nhập từ bàn phím\nBiến y - kiểu số thực - giá trị y:=x*x</string>
+    <string name="tg">Thuật giải</string>
+    <string name="tgbai1_1">Trình bày các bước giải theo tuần tự</string>
+    <string name="mh">Mã hoá</string>
+    <string name="mhbai1_1">Trình bày một chương trình Pascal hoàn chỉnh để giải một bài toán</string>
+    <string name="gtbai1">
+    Chỉ cấu trúc lệnh khi một điều kiện đặt ra thoả mãn - lệnh sẽ thực hiện, còn khi không thoả mãn điều kiện - lệnh sẽ không được thực hiện (dạng thiếu) hoặc một lệnh khác sẽ được thực hiện (dạng đầy đủ).
+    \nTrong Pascal cấu trúc rẽ nhánh được mô tả bằng câu lệnh if-then hoặc case-of.
+    </string>
+    <string name="cauifthieu">Câu lệnh if dạng thiếu</string>
+    <string name="ifthen"><![CDATA[if <điềukiện> then <câulệnh>;]]></string>
+    <string name="lenhifdaydu">Câu lệnh if dạng đầy dủ</string>
+    <string name="ifthenelse"><![CDATA[if <điềukiện> then <câulệnh1> else <câulệnh2>;]]></string>
+    <string name="cau1_1">Câu 1: Câu lệnh if-then có thể thực hiện bao nhiêu lệnh khi điều kiện thoả mãn?</string>
+    <string name="dacau1_1a">A. Chỉ một câu lệnh.</string>
+    <string name="dacau1_1b">B. Cả một nhóm lệnh với begin và end.</string>
+    <string name="dacau1_1c">C. Cả hai đáp án A và B.</string>
+    <string name="cau2_1">Câu 2: Cho một đoạn câu lệnh sau:</string>
+    <string name="cau2_1a"><![CDATA[a:=2;\nb:=3;\nif (a>b) then a:=b else b:=a;]]></string>
+    <string name="cau2_1b">Vậy sau khi chạy đoạn câu lệnh trên, giá trị của a và b sẽ là?</string>
+    <string name="dacau2_1a">A. a=2 và b=3.</string>
+    <string name="dacau2_1b">B. a=2 và b=2.</string>
+    <string name="dacau2_1c">C. a=3 và b=3.</string>
+    <string name="nenxanh">Nền xanh nhạt</string>
+    <string name="nenvang">Nền vàng nhạt</string>
+    <string name="nenmacdinh">Nền mặc định</string>
+    <string name="home">Các chủ đề chính</string>
+    <string name="maunen">Màu nền ứng dụng</string>
+    <string name="thoat">Thoát ứng dụng</string>
+    <string name="dinhnghia1">DUong thanh la tap hop cac diem </string>
+    <string name="gioithieu2">Là cấu trúc thực hiện các lệnh cho trước lặp đi lặp lại với số lần hữu hạn hoặc vô hạn.</string>
+    <string name="caulenhfor">Câu lệnh for</string>
+    <string name="cuphap2_1"><![CDATA[for <biến đếm>:= <giá trị đầu> to <giá trị cuối> do <câu lệnh>;]]></string>
+    <string name="caulenhfordown">Câu lệnh for dạng downto</string>
+    <string name="cuphap2_2"><![CDATA[for <biến đếm>:= <giá trị cuối> downto 1 do <câu lệnh>;]]></string>
+</resources>
