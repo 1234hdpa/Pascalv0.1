@@ -9,6 +9,7 @@
     <string name="chtn">Câu hỏi trắc nghiệm</string>
     <string name="tenbai1_1">Bài 1: Bài toán tính tiền lương</string>
     <string name="ndbai1_1">Nhập số giờ làm và lương giờ rồi tính số tiền lương tổng cộng. Nếu số&#8230;</string>
+    <string name="ndbai1_1a">Chưa có</string>
     <string name="tenbai2_1">Bài 2: Số lớn, số bé</string>
     <string name="ndbai2_1">Nhập vào hai số nguyên, sau đó in ra màn hình theo thứ tự&#8230;</string>
     <string name="tenbai3_1">Bài 3: Ước số của nhau</string>
