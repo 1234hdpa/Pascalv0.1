@@ -42,4 +42,10 @@ public class bai1_1 extends AppCompatActivity {
         menuchinh.inflate(R.menu.menuchinh, menu);
         return true;
     }
+
+    @Override
+    protected void onStart() {
+
+        super.onStart();
+    }
 }

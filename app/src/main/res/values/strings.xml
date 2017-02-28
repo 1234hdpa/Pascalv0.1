@@ -52,4 +52,11 @@
     <string name="cuphap2_1"><![CDATA[for <biến đếm>:= <giá trị đầu> to <giá trị cuối> do <câu lệnh>;]]></string>
     <string name="caulenhfordown">Câu lệnh for dạng downto</string>
     <string name="cuphap2_2"><![CDATA[for <biến đếm>:= <giá trị cuối> downto 1 do <câu lệnh>;]]></string>
+    <string name="cautruccoban">Cấu trúc cơ bản</string>
+
+    <!--Noi dung bai_1_1-->
+
+
+
+
 </resources>
